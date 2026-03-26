@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: localhost:8080/sitemap.xml
+Sitemap: https://vprotasi.com/sitemap.xml

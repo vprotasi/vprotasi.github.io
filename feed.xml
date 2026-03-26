@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Vladislav Protasov</title>
-    <link>localhost:8080/</link>
+    <link>https://vprotasi.com/</link>
     <description>I'm an indie programmer with a particular interest in graphics and systems. This website documents my quest to find beauty in the technical.</description>
     <language>en-GB</language>
-    <lastBuildDate>Thu, 26 Mar 2026 12:15:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 12:20:21 +0000</lastBuildDate>
     <item>
       <title>My Projects</title>
-      <link>localhost:8080/projects/</link>
-      <guid>localhost:8080/projects/</guid>
+      <link>https://vprotasi.com/projects/</link>
+      <guid>https://vprotasi.com/projects/</guid>
       <pubDate>Thu, 26 Mar 2026 12:14:00 +0000</pubDate>
       <description>I'm an indie programmer with a particular interest in graphics and systems. This website documents my quest to find beauty in the technical.</description>
       <content:encoded><![CDATA[<h1 id="what-i-have-done-so-far">What I Have Done So Far</h1>
@@ -30,8 +30,8 @@ page</a>.</p>]]></content:encoded>
     </item>
     <item>
       <title>About Me</title>
-      <link>localhost:8080/about/</link>
-      <guid>localhost:8080/about/</guid>
+      <link>https://vprotasi.com/about/</link>
+      <guid>https://vprotasi.com/about/</guid>
       <pubDate>Thu, 26 Mar 2026 12:05:55 +0000</pubDate>
       <description>I'm an indie programmer with a particular interest in graphics and systems. This website documents my quest to find beauty in the technical.</description>
       <content:encoded><![CDATA[<h1 id="hey-there-im-vlad">Hey There, I&rsquo;m Vlad 👋</h1>
@@ -66,8 +66,8 @@ Edward Collingwood and Arthur J. Lohwater.</p>]]></content:encoded>
     </item>
     <item>
       <title>Let's Work Together!</title>
-      <link>localhost:8080/work/</link>
-      <guid>localhost:8080/work/</guid>
+      <link>https://vprotasi.com/work/</link>
+      <guid>https://vprotasi.com/work/</guid>
       <pubDate>Thu, 26 Mar 2026 11:47:22 +0000</pubDate>
       <description>I'm an indie programmer with a particular interest in graphics and systems. This website documents my quest to find beauty in the technical.</description>
       <content:encoded><![CDATA[<h1 id="how-i-can-help-you">How I Can Help You</h1>

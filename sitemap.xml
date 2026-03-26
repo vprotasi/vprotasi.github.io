@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>localhost:8080/</loc>
+    <loc>https://vprotasi.com/</loc>
     <lastmod>2026-03-26T07:46:33Z</lastmod>
   </url>
   <url>
-    <loc>localhost:8080/about/</loc>
+    <loc>https://vprotasi.com/about/</loc>
     <lastmod>2026-03-26T12:05:55Z</lastmod>
   </url>
   <url>
-    <loc>localhost:8080/projects/</loc>
+    <loc>https://vprotasi.com/projects/</loc>
     <lastmod>2026-03-26T12:14:00Z</lastmod>
   </url>
   <url>
-    <loc>localhost:8080/work/</loc>
+    <loc>https://vprotasi.com/work/</loc>
     <lastmod>2026-03-26T11:47:22Z</lastmod>
   </url>
   <url>
-    <loc>localhost:8080/tags/personal/</loc>
+    <loc>https://vprotasi.com/tags/personal/</loc>
     <lastmod>2026-03-26T12:05:55Z</lastmod>
   </url>
 </urlset>
