@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vladislav Protasov</title>
+    <link>localhost:8080/</link>
+    <description>I'm an indie programmer with a particular interest in graphics and systems. This website documents my quest to find beauty in the technical.</description>
+    <language>en-GB</language>
+    <lastBuildDate>Thu, 26 Mar 2026 12:15:14 +0000</lastBuildDate>
+    <item>
+      <title>My Projects</title>
+      <link>localhost:8080/projects/</link>
+      <guid>localhost:8080/projects/</guid>
+      <pubDate>Thu, 26 Mar 2026 12:14:00 +0000</pubDate>
+      <description>I'm an indie programmer with a particular interest in graphics and systems. This website documents my quest to find beauty in the technical.</description>
+      <content:encoded><![CDATA[<h1 id="what-i-have-done-so-far">What I Have Done So Far</h1>
+<p>Here are some of the projects I&rsquo;ve worked on over the years. I hope you will
+find practical value in some of them. In case you have questions about any of my
+projects, feel free to <a href="mailto:vlad.protasov19@gmail.com">email me</a>.</p>
+<h2 id="chrome-extension-showing-term-frequency-on-pages">Chrome extension showing term frequency on pages</h2>
+<p>This is my first attempt at building a commercial project. In a way, everything
+about this extension is promotion-oriented&ndash;its title is deliberately chosen
+to rank well for a very specific search engine query and the feature set tries
+to do the same thing as the other products in the search results, but better.</p>
+<p>The technical details are fairly straightforward. I used TypeScript
+and Tailwind, along with a few open-source components.
+You can find the <a href="https://github.com/vprotasi/check-keyword-density-tool">extension source
+code</a> on my GitHub
+profile page, and the extension itself is also available at its <a href="https://chromewebstore.google.com/detail/check-keyword-density-too/fkidocfdbehjbpkodjigcalbccfjmnnc">Chrome Web Store
+page</a>.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>localhost:8080/about/</link>
+      <guid>localhost:8080/about/</guid>
+      <pubDate>Thu, 26 Mar 2026 12:05:55 +0000</pubDate>
+      <description>I'm an indie programmer with a particular interest in graphics and systems. This website documents my quest to find beauty in the technical.</description>
+      <content:encoded><![CDATA[<h1 id="hey-there-im-vlad">Hey There, I&rsquo;m Vlad 👋</h1>
+<p>If you want to know about me as a human being, this is the page for just that
+purpose. However, you might instead be looking for <a href="/projects/">my projects</a> or
+<a href="/work/">ways we can work together</a>. This page is essentially like my personal
+Instagram account, but in text. <code>:D</code></p>
+<p>The things that have interested me most strongly are graphics programming and
+maths. In fact, I started teaching myself to program when I was 12 so that I
+could create stunning virtual worlds that would be more aesthetically pleasing
+than I found the real world to be. My interest in maths followed naturally
+from here since computer graphics required a lot of maths and because maths sat
+really well with my idealism and appreciation of perfect forms (in the Platonic
+sense).</p>
+<p>In my teenage years, from 12 to 18 years of age, I had plenty of free time to
+explore what interested me and teach myself some really useful skills. As a
+result I achieved fluency in English (which is not my native language,
+unfortunately) and proficiency with all things related to computers&mdash;from
+general computer literacy to being comfortable in the Unix command line or with
+raw pointers in C. I also spent a lot of time researching ancient cultures,
+like Ancient Greece and India. It wasn&rsquo;t the history that interested me, but how
+people lived, what they thought, and how they viewed the world.</p>
+<p>Then I went to university, which significantly swayed my focus towards more
+purely mathematical pursuits. I didn&rsquo;t write a lot of code in the four years I
+spent studying, but still, there are a couple of projects that emerged out of
+the intellectual environment I was fortunate to enjoy there.
+Among them is <a href="https://github.com/wave-pde-simulation">the string simulator</a>
+I wrote in C while taking a class in partial differential equations.</p>
+<p>If you are wondering what kind of mathematics I did during my undergrad,
+my bachelor&rsquo;s thesis was in general topology, closely related to the works of
+Edward Collingwood and Arthur J. Lohwater.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Let's Work Together!</title>
+      <link>localhost:8080/work/</link>
+      <guid>localhost:8080/work/</guid>
+      <pubDate>Thu, 26 Mar 2026 11:47:22 +0000</pubDate>
+      <description>I'm an indie programmer with a particular interest in graphics and systems. This website documents my quest to find beauty in the technical.</description>
+      <content:encoded><![CDATA[<h1 id="how-i-can-help-you">How I Can Help You</h1>
+<p>My technical and academic interests have been quite varied, and it&rsquo;s
+fairly likely there&rsquo;s something in my experience that you will find useful.
+Furthermore, I tend to be a quick learner and a kind co-worker, so if you&rsquo;re
+simply looking for an extra helping hand for your project or company, I&rsquo;ll be
+happy to consider such an opportunity!</p>
+<p>As I don&rsquo;t believe that programming skills and experience are conveyed meaningfully
+by long lists of buzzwords, I won&rsquo;t make that the centrepiece of this page. That
+being said, below are the kinds of work I like to do.</p>
+<h2 id="computer-graphics-and-video-game-programming">Computer graphics and video game programming</h2>
+<p>This is why I started programming in the first place. I&rsquo;ve always been
+mesmerised by the beauty and atmosphere of certain video games. More
+specifically, I have in mind titles such as <em>The Talos Principle</em>, <em>Fez</em>, <em>The
+Witness</em>, <em>Firewatch</em> and probably many more that I can&rsquo;t remember at the
+moment.</p>
+<p>I have some hobby-level experience with the technology you are likely using in
+your video game or graphics project, such as C/C++, SDL2, OpenGL, and Vulkan.
+And since I&rsquo;m a mathematician by training, geometry, spatial logic, and procedural generation
+come naturally to me.</p>
+<p>Please note that I strongly prefer to work on non-violent video games.</p>
+<h2 id="static-websites">Static websites</h2>
+<p>What are static websites? Those are websites that don&rsquo;t require any software on
+your server or host. This is advantageous in numerous ways:</p>
+<ol>
+<li>Less complexity for the website owner to deal with</li>
+<li>Fewer maintenance headaches caused by bad updates</li>
+<li>Faster loading speed for the user, which matters a lot if you don&rsquo;t want to
+   be losing visitors simply to slow page load</li>
+</ol>
+<p>The website you are reading right now is also static and coded from scratch. If
+you think your project or company needs a website to enhance its online
+presence, consider contacting me, and hopefully we will come up with a solution
+that works beautifully for you.</p>
+<h2 id="why-work-with-me">Why work with me?</h2>
+<p>There are a few reasons why working with me might be a particularly sound
+choice:</p>
+<ul>
+<li>You might need someone with a mathematical/academic background. While I&rsquo;m not
+  exactly a career mathematician, my bachelor&rsquo;s in maths exposed me to the way
+  researchers operate and to the rigour of mathematical proof. And it gave me
+  the background and the confidence to do maths-heavy work.</li>
+<li>I&rsquo;m transparent about what I can and can&rsquo;t do. I will do my best to set
+  reasonable expectations so that our work does not come to a screeching halt in
+  the middle of a project.</li>
+<li>I might happen to be a good values match. I strongly believe that
+  software should prioritise user experience and minimise environmental impact.
+  I often cringe at how unnecessarily complicated and resource-intensive some
+  software solutions are.</li>
+</ul>]]></content:encoded>
+    </item>
+  </channel>
+</rss>
